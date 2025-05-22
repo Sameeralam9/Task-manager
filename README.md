@@ -3,9 +3,9 @@
 A sleek, responsive task management application built with React that helps
 you organize your daily tasks with priority levels, due dates, and smart filtering options.
 
-## ✨ Features
+# ✨ Features
 
-# 🎯 Core Functionality
+🎯 Core Functionality
 
 Add, Edit & Delete Tasks - Full CRUD operations with intuitive interface
 Task Completion - Toggle tasks between active and completed states
@@ -40,28 +40,28 @@ Icon Integration - Beautiful Lucide React icons throughout the interface
 -- Notifications: React Hot Toast
 -- Storage: Browser LocalStorage API
 
-## 🚀 Getting Started Prerequisites
+# 🚀 Getting Started Prerequisites
 
 Node.js (v16 or higher)
 npm or yarn package manager
 
-## Installation
+# Installation
 
 Clone the repository
-bashgit clone https://github.com/yourusername/modern-task-manager.git
+bashgit clone https://github.com/Sameeralam9/Task-manager.git
 cd modern-task-manager
 
 Install dependencies
 bashnpm install
 
-# or
+ or
 
 yarn install
 
 Start the development server
 bashnpm run dev
 
-# or
+ or
 
 yarn dev
 
@@ -71,7 +71,7 @@ Navigate to http://localhost:5173 to view the application
 Build for Production
 bashnpm run build
 
-# or
+ or
 
 yarn build
 
@@ -85,20 +85,20 @@ Select priority level (Low/Medium/High)
 Set an optional due date
 Click "Add Task"
 
-## Managing Tasks
+# Managing Tasks
 
 Complete Task: Click the circle icon next to any task
 Edit Task: Click the edit icon (pencil) to modify task details
 Delete Task: Click the trash icon to remove a task
 Filter Tasks: Use the All/Active/Completed tabs to filter your view
 
-## Priority System
+# Priority System
 
 -- 🔴 High Priority: Red badge - Urgent tasks that need immediate attention
 -- 🟡 Medium Priority: Orange badge - Important tasks with moderate urgency
 -- 🔵 Low Priority: Blue badge - Tasks that can be done when time permits
 
-## Due Date Alerts
+# Due Date Alerts
 
 🚨 Overdue: Red alert badge for tasks past their due date
 ⚠️ Due Soon: Orange alert badge for tasks due within 2 days
