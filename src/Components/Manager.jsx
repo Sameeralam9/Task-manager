@@ -151,7 +151,7 @@ function Manager() {
     const data = todos.filter((val) => {
       return val.id !== id;
     });
-    toast.success("Todo Deleted Successfully");
+    toast.success("Task Deleted Successfully");
     setTodos(data);
   };
 
